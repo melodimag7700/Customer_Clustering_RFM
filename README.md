@@ -8,7 +8,7 @@
 
 -Website :WWW.SedraPro.Com
 
-# 📁 Project Description 
+# 📝 Project Description 
 
 This  repository explores how to perform RFM (Recency, Frequency, Monetary) analysis on transaction data to segment customers for targeted marketing strategies. Using pandas, numpy, and matplotlib, it calculates RFM metrics per customer, assigns them to behavioral clusters (New, Inactive, Fixed), and visualizes the customer segments with a bar chart.
 
@@ -43,7 +43,7 @@ Direct marketing and promotional targeting
 Reducing churn by re-engaging inactive customers
 Enhancing customer loyalty programs
 
-# 📂 Files & Notebooks
+# 💡 Files & Notebooks
 
 - **Customer_Clustering_RFM.ipynb**  
   _Developed and executed in Google Colab_
